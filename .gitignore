@@ -1,0 +1,11 @@
+node_modules
+.history
+.next
+out
+.idea
+
+# VS Code
+.history 
+.vscode
+.env.local
+.eslintcache
